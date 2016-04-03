@@ -36,3 +36,11 @@ h1.display-3 {
 .carousel-indicators {
 	margin-bottom: 10px!important;
 }
+
+.mid.nav-item.nav-link {
+	text-align: center!important;
+}
+
+.hanging-block {
+	background-color: ;
+}
