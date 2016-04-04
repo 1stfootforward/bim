@@ -44,9 +44,15 @@ h1.display-3 {
 .hanging-block {
 	background-color: #1397D5;
 	height: 500px;
-	margin-top: -400px;
+	margin-top: -440px;
 }
 
 .hanging-block ul {
 	margin-top: 400px;
+}
+
+.hanging-block h4 {
+	font-size: 60px;
+	color: white!important;
+	margin-left: -35px;
 }
